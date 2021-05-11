@@ -1,6 +1,6 @@
 # Veturpack
 
-A Vue project with minimal setup and dependencies for reproducing [issue #2898](https://github.com/vuejs/vetur/issues/2898).
+A Vue project with minimal setup and dependencies for reproducing [vetur#2898](https://github.com/vuejs/vetur/issues/2898) and [vue-next#3760](https://github.com/vuejs/vue-next/issues/3760).
 
 ## Usage
 
